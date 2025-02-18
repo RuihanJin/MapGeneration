@@ -10,10 +10,10 @@ python Demo.py
 
 ## Examples
 
-<img src="images/global.png"   alt="Example #1" width="300" height="200">
-<img src="images/tropical.png" alt="Example #2" width="300" height="200">
-<img src="images/xeric.png"    alt="Example #3" width="300" height="200">
-<img src="images/frigid.png"   alt="Example #4" width="300" height="200">
+<img src="images/global.png"   alt="Example #1" width="600" height="400">
+<img src="images/tropical.png" alt="Example #2" width="600" height="400">
+<img src="images/xeric.png"    alt="Example #3" width="600" height="400">
+<img src="images/frigid.png"   alt="Example #4" width="600" height="400">
 
 The latitude range of the generated map can be adjusted by modifying the `min_latitude` and `max_latitude` parameters.. Besides, more parameters are available for adjusting map generation.
 
