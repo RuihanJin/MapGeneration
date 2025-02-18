@@ -15,7 +15,7 @@ python Demo.py
 <img src="images/xeric.png"    alt="Example #3" width="600" height="400">
 <img src="images/frigid.png"   alt="Example #4" width="600" height="400">
 
-The latitude range of the generated map can be adjusted by modifying the `min_latitude` and `max_latitude` parameters.. Besides, more parameters are available for adjusting map generation.
+The latitude range of the generated map can be adjusted by modifying the `min_latitude` and `max_latitude` parameters. Besides, more parameters are available for adjusting map generation.
 
 ## References
 
