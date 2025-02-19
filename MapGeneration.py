@@ -25,8 +25,6 @@ class DistrictType(Enum):
     TAIGA           = 14
     FOREST          = 15
     RAINFOREST      = 16
-    LAKE            = 17
-    COASTLINE       = 18
 
 
 ### TYPE OF LINES
@@ -59,7 +57,6 @@ colorMapping = {
     DistrictType.TAIGA: (134, 162, 135),
     DistrictType.FOREST: (94, 146, 87),
     DistrictType.RAINFOREST: (66, 118, 85),
-    DistrictType.LAKE: (152, 235, 245),
     LineType.BLANK: (0, 0, 0),
     LineType.BEACH: (245, 236, 138),
     LineType.REEF: (80, 90, 70),
